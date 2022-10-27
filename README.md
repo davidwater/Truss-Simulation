@@ -9,7 +9,7 @@ This project is divided into two parts. One is about the truss structure stress 
 ![image](https://github.com/davidwater/Truss-Simulation/blob/main/pictures/simulation_2.png)
 ![image](https://github.com/davidwater/Truss-Simulation/blob/main/pictures/simulation_3.png)
 
-## Learning Testing
+## Users Learning Testing
 ![image](https://github.com/davidwater/Truss-Simulation/blob/main/pictures/learning_1.png)
 ![image](https://github.com/davidwater/Truss-Simulation/blob/main/pictures/learning_2.png)
 ![image](https://github.com/davidwater/Truss-Simulation/blob/main/pictures/learning_3.png)
